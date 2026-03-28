@@ -54,7 +54,3 @@ No external libraries required — only the built-in `turtle` module.
 | Key | Action |
 |-----|--------|
 | W   | Move up |
-
-## 📸 Preview
-
-![Gameplay screenshot](screenshot.png)
